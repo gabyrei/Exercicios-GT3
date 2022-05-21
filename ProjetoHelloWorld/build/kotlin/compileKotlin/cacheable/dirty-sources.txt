@@ -4,6 +4,5 @@ C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc3
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Excirculo.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\TresInteiro.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc1.kt
-C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc5.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Main.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Idade.kt
