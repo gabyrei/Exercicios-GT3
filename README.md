@@ -1,1 +1,0 @@
-# Exercicios-GT3
