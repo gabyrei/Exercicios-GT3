@@ -4,10 +4,10 @@ fun main() {
           obtemos resto = 5. (FOR)  */
 
     print("digite um numero para o calculo")
-    val num= readln().toDuble()
+    val num= readln().toInt()
 
-    for(num in 1000...1999){
-        println("$num / $in = ${num* in } ")
+    for( i in 1000..1999){
+        println("$num / $i = ${num* i } ")
 
     }
 }

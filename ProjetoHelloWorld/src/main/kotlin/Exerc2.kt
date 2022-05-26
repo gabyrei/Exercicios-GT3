@@ -5,6 +5,7 @@ fun main() {
      idade for =-99. (WHILE)*/
 
     var idade  =
+
     var idade21 =
     var idade50 =
 
