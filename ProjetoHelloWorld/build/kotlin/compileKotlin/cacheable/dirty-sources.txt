@@ -1,7 +1,10 @@
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc4.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc2.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc3.kt
+C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Heranca\Animal.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\TresInteiro.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Exerc1.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Main.kt
+C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Heranca\ClassAbstratas.kt
 C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Idade.kt
+C:\Users\Usuario\Desktop\Exercicios-GT3\ProjetoHelloWorld\src\main\kotlin\Heranca\Cachorro.kt
