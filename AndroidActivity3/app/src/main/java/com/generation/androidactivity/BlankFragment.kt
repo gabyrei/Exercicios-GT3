@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 
+ private list
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 private const val ARG_PARAM1 = "param1"
@@ -35,6 +36,23 @@ class BlankFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_blank, container, false)
+
+
+        val listTarefas= listOf(
+            Tarefa( "lavar a louca
+            lavar a louca o dia todo"" +
+                    nome
+                  data
+            )
+        )
+    }
+
+    {
+
+    }
+
+    {
+
     }
 
     companion object {
