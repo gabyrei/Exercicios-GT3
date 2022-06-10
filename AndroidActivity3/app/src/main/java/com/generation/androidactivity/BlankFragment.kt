@@ -38,13 +38,6 @@ class BlankFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_blank, container, false)
 
 
-        val listTarefas= listOf(
-            Tarefa( "lavar a louca
-            lavar a louca o dia todo"" +
-                    nome
-                  data
-            )
-        )
     }
 
     {
